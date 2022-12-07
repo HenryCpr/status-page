@@ -33,7 +33,7 @@ enableGitInfo: true
 params:
   skipSeconds: false
   useRelativeTime: true
-  disableDarkMode: false
+  disableDarkMode: true
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
@@ -56,7 +56,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/1dbde54e41d7404d5fd27d5edc894fb3-removebg-preview.png
+  logo: /img/image-removebg-preview.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
