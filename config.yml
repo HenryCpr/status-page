@@ -53,10 +53,10 @@ params:
         video. It is reliant on our CDN.
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#FBFCFF"
+  brand: "#4C5B5C"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/image-removebg-preview.png
+  logo: https://images-ext-2.discordapp.net/external/2bweyVWSabUN8AbLW17nktGq-IC7_gvAsh9OdxzGkAo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1016987475740217374/a4667abe94728f57f424856907c96219.png?width=192&height=192
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: false
