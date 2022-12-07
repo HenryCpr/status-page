@@ -59,7 +59,7 @@ params:
   logo: /img/image-removebg-preview.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  alwaysKeepBrandColor: true
+  alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
