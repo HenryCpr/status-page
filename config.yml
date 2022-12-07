@@ -53,7 +53,7 @@ params:
         video. It is reliant on our CDN.
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#FBFCFF"
   enableLastMod: true
   headerTextColor: white
   logo: /img/image-removebg-preview.png
@@ -61,7 +61,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
-  useLogo: false
+  useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: monthly
